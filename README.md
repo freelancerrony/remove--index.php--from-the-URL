@@ -1,0 +1,1 @@
+# remove--index.php--from-the-URL
